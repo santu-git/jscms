@@ -1,6 +1,5 @@
 # JS-CMS
 
-
 A JavaScript based CMS
 
 # Installation
