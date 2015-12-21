@@ -11,7 +11,5 @@ A JavaScript based CMS
 3. Edit `config/connections.js` to configure database adapter.
 4. Copy `config/models.sample.js` to `config/models.js`
 5. Edit `config/models.js` to setup to configure connection and migration mode for models.
-6. My Edit  
-
 
 
